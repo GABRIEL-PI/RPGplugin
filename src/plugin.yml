@@ -1,0 +1,6 @@
+name: TEstPlugin
+version: 1.0
+main: me.s1l3nt.testplugin.Main
+
+description: RPG plugin
+author: S1L3NT
